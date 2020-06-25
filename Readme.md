@@ -2,7 +2,8 @@
 
 Arquivo da aula de Git e GitHub para iniciantes.
 
-Este é um repositório teste para mostrar como o git funciona.
+Este é um repositório apenas de teste para aprender os comandos do git no terminal.
+
 
 Saiba mais em [Alex GitHub](https://github.com/alexEstudo)
  
